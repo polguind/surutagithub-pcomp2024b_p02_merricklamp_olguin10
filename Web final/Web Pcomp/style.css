@@ -1,0 +1,579 @@
+.slide {
+  background-color: #0a1214;
+  width: 100%;
+  min-width: 1920px;
+  min-height: 5300px;
+  position: relative;
+}
+
+.slide .text-wrapper {
+  position: absolute;
+  top: 66px;
+  left: 200px;
+  width: 984px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 700;
+  color: #bde3bd;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .line {
+  position: absolute;
+  top: 204px;
+  left: 200px;
+  width: 1520px;
+  height: 2px;
+}
+
+.slide .img {
+  position: absolute;
+  top: 1697px;
+  left: 415px;
+  width: 1308px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.slide .line-2 {
+  position: absolute;
+  top: 3688px;
+  left: 660px;
+  width: 1055px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.slide .line-3 {
+  position: absolute;
+  top: 5000px;
+  left: 204px;
+  width: 1520px;
+  height: 2px;
+}
+
+.slide .image {
+  position: absolute;
+  top: 255px;
+  left: 200px;
+  width: 1520px;
+  height: 695px;
+  aspect-ratio: 2.19;
+  object-fit: cover;
+}
+
+.slide .div {
+  position: absolute;
+  top: 154px;
+  left: 1644px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #bde3bd;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-2 {
+  position: absolute;
+  top: 154px;
+  left: 1521px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #bde3bd;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-3 {
+  position: absolute;
+  top: 154px;
+  left: 1402px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #bde3bd;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .PCOMP {
+  position: absolute;
+  top: 5026px;
+  left: 1562px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #bde3bd;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .merrick-lamp-daan {
+  position: absolute;
+  top: 977px;
+  left: 201px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #bde3bd;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .text-wrapper-4 {
+  position: absolute;
+  top: 1678px;
+  left: 201px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #637663;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .p {
+  position: absolute;
+  top: 1747px;
+  left: 196px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #bde3bd;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-5 {
+  position: absolute;
+  top: 4380px;
+  left: 200px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #bde3bd;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-6 {
+  position: absolute;
+  top: 2477px;
+  left: 200px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #bde3bd;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-7 {
+  position: absolute;
+  top: 977px;
+  left: 1529px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: #bde3bd;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-8 {
+  position: absolute;
+  top: 1542px;
+  left: 1489px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: #bde3bd;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .daan-van-den-berg-se {
+  position: absolute;
+  top: 1095px;
+  left: 200px;
+  width: 984px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 300;
+  color: #bde3bd;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .span {
+  font-weight: 300;
+  font-family: 'Fira Code', monospace;
+}
+
+.slide .text-wrapper-9 {
+  font-family: 'Fira Code', monospace;
+  font-weight: 400;
+}
+
+.slide .text-wrapper-10 {
+  font-family: 'Fira Code', monospace;
+  font-weight: 700;
+}
+
+.slide .hackear-se-refiere-a {
+  position: absolute;
+  top: 1837px;
+  left: 201px;
+  width: 851px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 300;
+  color: #b2cdb2;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .text-wrapper-11 {
+  font-family: 'Fira Code', monospace;
+  font-weight: 500;
+}
+
+.slide .usualmente-el-hackeo {
+  position: absolute;
+  top: 2228px;
+  left: 201px;
+  width: 1519px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 300;
+  color: #b2cdb2;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .este-hackeo-cuando {
+  position: absolute;
+  top: 2548px;
+  left: 835px;
+  width: 857px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 300;
+  color: #bde3bd;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .as-van-den-berg {
+  position: absolute;
+  top: 3314px;
+  left: 835px;
+  width: 885px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 300;
+  color: #bde3bd;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .text-wrapper-12 {
+  position: absolute;
+  top: 2990px;
+  left: 911px;
+  width: 805px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 400;
+  color: #bde3bd;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .ooui-quotes-ltr {
+  position: absolute;
+  top: 2990px;
+  left: 835px;
+  width: 51px;
+  height: 51px;
+  aspect-ratio: 1;
+}
+
+.slide .vector {
+  position: absolute;
+  width: 80.00%;
+  height: 60.00%;
+  top: 20.00%;
+  left: 10.00%;
+}
+
+.slide .image-2 {
+  position: absolute;
+  top: 1104px;
+  left: 1296px;
+  width: 412px;
+  height: 410px;
+  aspect-ratio: 1;
+}
+
+.slide .line-4 {
+  position: absolute;
+  top: 4356px;
+  left: 712px;
+  width: 1006px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.slide .text-wrapper-13 {
+  position: absolute;
+  top: 4336px;
+  left: 195px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #637663;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .image-3 {
+  position: absolute;
+  top: 1847px;
+  left: 1129px;
+  width: 568px;
+  height: 327px;
+  aspect-ratio: 1.74;
+}
+
+.slide .image-4 {
+  position: absolute;
+  top: 2574px;
+  left: 212px;
+  width: 562px;
+  height: 809px;
+  aspect-ratio: 0.7;
+  object-fit: cover;
+}
+
+.slide .text-wrapper-14 {
+  position: absolute;
+  top: 3669px;
+  left: 200px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #637763;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.slide .rectangle {
+  top: 2548px;
+  left: 201px;
+  width: 585px;
+  height: 1004px;
+  position: absolute;
+  border: 1px solid;
+  border-color: #bde3bd;
+}
+
+.slide .rectangle-2 {
+  top: 1834px;
+  left: 1106px;
+  width: 614px;
+  height: 353px;
+  position: absolute;
+  border: 1px solid;
+  border-color: #bde3bd;
+}
+
+.slide .rectangle-3 {
+  top: 1095px;
+  left: 1284px;
+  width: 435px;
+  height: 498px;
+  position: absolute;
+  border: 1px solid;
+  border-color: #bde3bd;
+}
+
+.slide .text-wrapper-15 {
+  position: absolute;
+  top: 3454px;
+  left: 212px;
+  width: 562px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: #bde3bd;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .la-industrializaci-n {
+  position: absolute;
+  top: 4480px;
+  left: 195px;
+  width: 1522px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 300;
+  color: #bde3bd;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/* --- NUEVA IMAGEN DEL DIAGRAMA --- */
+.slide .image-5 {
+  position: absolute;
+  top: 3750px;
+  left: 200px;
+  width: 1520px;
+  height: 500px;
+  object-fit: contain;
+}
+
+.slide .text-wrapper-16 {
+  position: absolute;
+  top: 4265px;
+  left: 200px;
+  width: 1520px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: #b2cdb2;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+}
+
+/* --- ESTILOS PARA MEJORAR LA LEGIBILIDAD DEL TEXTO --- */
+
+/* 1. Estilos para los párrafos principales */
+.daan-van-den-berg-se,
+.hackear-se-refiere-a,
+.usualmente-el-hackeo,
+.este-hackeo-cuando,
+.as-van-den-berg,
+.la-industrializaci-n {
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.6;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+/* 2. Estilos para el Título Principal */
+.text-wrapper {
+    color: #111111;
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+/* 3. Estilos para los subtítulos y preguntas */
+.text-wrapper-4,
+.text-wrapper-13,
+.text-wrapper-14 {
+    color: #222222;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+.p,
+.text-wrapper-5 {
+    color: #333333;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/* 4. Estilos para textos secundarios o de menor tamaño */
+.text-wrapper-15,
+.PCOMP {
+    color: #555555;
+    font-size: 14px;
+}
+
+/* 5. Estilo para la cita (blockquote) */
+.text-wrapper-12 {
+    color: #444444;
+    font-size: 17px;
+    font-style: italic;
+    line-height: 1.7;
+    border-left: 4px solid #cccccc;
+    padding-left: 20px;
+    margin: 20px 0;
+}
+/* ======= VARIABLES ======= */
+:root {
+  --color-fondo: #0a1214;
+  --color-acento: #bde3bd;
+  --color-secundario: #637663;
+  --color-texto: #b2cdb2;
+}
+/* ======= MENÚ FIJO ======= */
+.fixed-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--color-fondo);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+}
+
+.menu-content {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  padding: 1rem;
+}
+
+.menu-content a {
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  color: var(--color-acento);
+  text-transform: lowercase;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.menu-content a:hover {
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
+.menu-content a.active {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.menu-content a::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--color-acento);
+  transition: width 0.3s ease;
+}
+
+.menu-content a:hover::after,
+.menu-content a.active::after {
+  width: 100%;
+}
